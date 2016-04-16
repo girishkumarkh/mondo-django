@@ -60,3 +60,20 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Virtual Environment 
+venv
+
+# Settings file
+*/*/settings/dev.py
+*/*/settings/production.py
+
+# Public
+public
+
+# Secure tunnels - https://ngrok.com/
+ngrok
+
+# Backup
+*.sql
+*.dump
